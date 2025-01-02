@@ -1,5 +1,9 @@
 # Welcome to my Web3 World! 👋
-Hey there! I'm @SquilliamX, a passionate web3 developer and blockchain enthusiast.
+Hey there! I'm @SquilliamX, a passionate web3 developer and blockchain enthusiast.  
+
+I'm always excited to work on web3 projects! 
+  - DM me on [X here](https://x.com/0xSquilliam)
+  - Follow my work here on GitHub
 
 ## 🎯 What I'm Into
 
@@ -12,25 +16,6 @@ Hey there! I'm @SquilliamX, a passionate web3 developer and blockchain enthusias
 - **Layer 2 Solutions**: Scaling blockchain technology for real-world adoption
 - **GameFi & Web3 Gaming**: On-chain gaming mechanics, play-to-earn ecosystems, and game economies
 - *And everything web3* 
-
-## 🤝 Collaboration
-I'm always excited to work on innovative web3 projects! Particularly interested in:
-
-- DeFi protocols that push the boundaries of what's possible
-- DAO tooling and governance frameworks
-- Layer 2 scaling solutions
-- Privacy-preserving applications
-- DeSci initiatives
-- On-chain gaming and GameFi projects
-
-## 💡 Vision
-I'm driven by the potential of blockchain technology to create positive change. Some areas I'm passionate about:
-
-- Making financial services more accessible and equitable
-- Enabling transparent and efficient governance systems
-- Supporting decentralized scientific research
-- Building privacy-preserving infrastructure
-- Revolutionizing gaming through blockchain technology
 
 ## 🛠️ Tech Stack
 
@@ -45,11 +30,6 @@ I'm driven by the potential of blockchain technology to create positive change. 
       - Integration Testing
       - Fuzz Testing  
 
-## 📫 Connect With Me
-
-- DM me on [X here](https://x.com/0xSquilliam)
-- Follow my work here on GitHub
-
 ## ⚡ Fun Facts
 
 - Believe in the power of blockchain to reshape our world for the better
@@ -58,4 +38,9 @@ I'm driven by the potential of blockchain technology to create positive change. 
 - Passionate about combining technical excellence with real-world impact
 
 
-"Building the decentralized future, one block at a time" 🚀
+  
+---
+
+<div align="center">
+    <h3><i>Building the decentralized future, one block at a time 🚀</i></h3>
+</div>
