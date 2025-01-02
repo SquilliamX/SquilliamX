@@ -7,21 +7,20 @@ I'm always excited to work on web3 projects!
 
 ## 🎯 What I'm Into
 
-- **Web3 Development**: Solidity, smart contracts, and protocol architecture
-- **Security**: Smart contract auditing and blockchain security patterns
-- **DeFi Innovation**: AMMs, lending protocols, and innovative financial instruments
-- **DAOs & Governance**: Building decentralized communities and governance systems
-- **NFTs & Digital Assets**: Exploring utility beyond digital art
-- **DeSci**: Contributing to decentralized scientific research and funding
-- **Layer 2 Solutions**: Scaling blockchain technology for real-world adoption
-- **GameFi & Web3 Gaming**: On-chain gaming mechanics, play-to-earn ecosystems, and game economies
-- *And everything web3* 
+- **Web3 Development**: Solidity, secure smart contracts, and protocol architecture
+  - **DeFi Innovation**: AMMs, lending protocols, and innovative financial instruments
+  - **DAOs & Governance**: Building decentralized communities and governance systems
+  - **NFTs & Digital Assets**: Exploring utility beyond digital art
+  - **DeSci**: Contributing to decentralized scientific research and funding
+  - **Layer 2 Solutions**: Scaling blockchain technology for real-world adoption
+  - **GameFi & Web3 Gaming**: On-chain gaming mechanics, play-to-earn ecosystems, and game economies
+- *Everything web3* 👀
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Solidity, JavaScript, HTML, CSS
 - **Frameworks**: Hardhat, Foundry, Web3.js, Ethers.js
-- **Tools**: OpenZeppelin, Chainlink, IPFS
+- **Tools**: OpenZeppelin, Chainlink, IPFS, Alchemy
 - **Testing**:
   - Slither,
   - Aderyn,
