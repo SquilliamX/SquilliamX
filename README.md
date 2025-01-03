@@ -33,7 +33,7 @@ I'm constantly learning, exploring new blockchain innovations, and love collabor
 <td width="25%">
 <img src="https://img.shields.io/badge/⚡%20DEVELOPMENT-0077B5?style=for-the-badge" alt="Development"/>
 <br/><br/>
-<i>Solidity, smart contracts, architecture</i>
+<i>Smart contracts & architecture</i>
 </td>
 <td width="25%">
 <img src="https://img.shields.io/badge/💎%20DEFI%20%20%20%20%20%20%20-0077B5?style=for-the-badge" alt="DeFi"/>
@@ -55,7 +55,7 @@ I'm constantly learning, exploring new blockchain innovations, and love collabor
 <td width="25%">
 <img src="https://img.shields.io/badge/🎨%20NFTs%20%20%20%20%20%20-0077B5?style=for-the-badge" alt="NFTs"/>
 <br/><br/>
-<i>Digital assets & utilities</i>
+<i>Digital assets</i>
 </td>
 <td width="25%">
 <img src="https://img.shields.io/badge/🔬%20DESCI-0077B5?style=for-the-badge" alt="DeSci"/>
