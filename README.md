@@ -33,7 +33,7 @@ I'm constantly learning, exploring new blockchain innovations, and love collabor
 <td width="25%">
 <img src="https://img.shields.io/badge/⚡%20DEVELOPMENT-0077B5?style=for-the-badge" alt="Development"/>
 <br/><br/>
-<i>Smart contracts & architecture</i>
+<i>Secure smart contracts & architecture</i>
 </td>
 <td width="25%">
 <img src="https://img.shields.io/badge/💎%20DEFI%20%20%20%20%20%20%20-0077B5?style=for-the-badge" alt="DeFi"/>
