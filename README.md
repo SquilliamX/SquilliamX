@@ -1,13 +1,13 @@
 <div align="center">
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=1000&duration=2500&color=0077B5&center=true&vCenter=true&random=false&width=500&height=70&lines=@SquilliamX;Web3+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=1000&duration=2000&color=0077B5&center=true&vCenter=true&width=500&height=70&lines=@SquilliamX;Web3+Developer&repeat=true" alt="Typing SVG" />
   </div>
 
  [![Twitter Follow](https://img.shields.io/twitter/follow/0xSquilliam?style=social)](https://x.com/0xSquilliam)
 [![GitHub](https://img.shields.io/badge/--follow?style=social&logo=github&label=Follow)](https://github.com/SquilliamX)
 
   <div style="margin: 30px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&pause=1000&duration=2500&color=0077B5&center=true&vCenter=true&random=false&width=500&height=45&lines=Building+the+decentralized+future;One+block+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&pause=1000&duration=2000&color=0077B5&center=true&vCenter=true&width=500&height=45&lines=Building+the+decentralized+future;One+block+at+a+time+%F0%9F%9A%80&repeat=true" alt="Typing SVG" />
   </div>
 </div>
 
@@ -75,19 +75,19 @@ Hey there! I'm @SquilliamX, a passionate web3 developer and blockchain enthusias
 
 <div align="center">
       
-### Languages:
+### Languages
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks:
+### Frameworks
 ![Foundry](https://img.shields.io/badge/Foundry-%23150458.svg?style=for-the-badge&logo=foundry&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-%23F16822.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 
-### Tools:
+### Tools
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%234E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-%23375BD2.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-%2365C2CB.svg?style=for-the-badge&logo=ipfs&logoColor=white)
