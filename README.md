@@ -70,7 +70,7 @@ I'm constantly learning, exploring new blockchain innovations, and love collabor
 <td width="25%">
 <img src="https://img.shields.io/badge/🌐%20WEB3-0077B5?style=for-the-badge" alt="Web3"/>
 <br/><br/>
-<i>Building the future</i>
+<i>Everything Web3!</i>
 </td>
 </tr>
 </table>
