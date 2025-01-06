@@ -21,60 +21,9 @@
 
 Hey there! I'm @SquilliamX, a passionate web3 developer and blockchain enthusiast who believes in the power of blockchain to reshape our world.
 
-I'm constantly learning, exploring new blockchain innovations, and love collaborating with fellow web3 enthusiasts to create impactful solutions.
+I'm constantly learning, exploring new blockchain innovations, and love collaborating with fellow web3 enthusiasts to create impactful solutions. 
 
-<br/>
-
-## 🎯 What I'm Into 
-
-<div align="center">
-<table border="0">
-<tr align="center">
-<td width="25%">
-<img src="https://img.shields.io/badge/⚡%20DEVELOPMENT-0077B5?style=for-the-badge" alt="Development"/>
-<br/><br/>
-<i>Smart contracts and architecture</i>
-</td>
-<td width="25%">
-<img src="https://img.shields.io/badge/💎%20DEFI%20%20%20%20%20%20%20-0077B5?style=for-the-badge" alt="DeFi"/>
-<br/><br/>
-<i>Decentralized financial instruments</i>
-</td>
-<td width="25%">
-<img src="https://img.shields.io/badge/🏛️%20DAOs%20%20%20%20%20%20-0077B5?style=for-the-badge" alt="DAOs"/>
-<br/><br/>
-<i>Decentralized communities & systems</i>
-</td>
-<td width="25%">
-<img src="https://img.shields.io/badge/🎮%20GAMEFI%20%20%20-0077B5?style=for-the-badge" alt="GameFi"/>
-<br/><br/>
-<i>On-Chain gaming & P2E ecosystems</i>
-</td>
-</tr>
-<tr align="center">
-<td width="25%">
-<img src="https://img.shields.io/badge/🎨%20NFTs%20%20%20%20%20%20-0077B5?style=for-the-badge" alt="NFTs"/>
-<br/><br/>
-<i>Digital assets</i>
-</td>
-<td width="25%">
-<img src="https://img.shields.io/badge/🔬%20DESCI-0077B5?style=for-the-badge" alt="DeSci"/>
-<br/><br/>
-<i>Decentralized research</i>
-</td>
-<td width="25%">
-<img src="https://img.shields.io/badge/⚡%20LAYER%202-0077B5?style=for-the-badge" alt="L2"/>
-<br/><br/>
-<i>Scaling solutions</i>
-</td>
-<td width="25%">
-<img src="https://img.shields.io/badge/🌐%20WEB3-0077B5?style=for-the-badge" alt="Web3"/>
-<br/><br/>
-<i>Everything Web3!</i>
-</td>
-</tr>
-</table>
-</div>
+My focus lies in developing secure smart contracts and building scalable DeFi protocols that push the boundaries of what's possible in the decentralized space.
 
 <br/>
 
