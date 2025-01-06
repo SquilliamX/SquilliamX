@@ -23,7 +23,7 @@ Hey there! I'm @SquilliamX, a passionate web3 developer and blockchain enthusias
 
 I'm constantly learning, exploring new blockchain innovations, and love collaborating with fellow web3 enthusiasts to create impactful solutions. 
 
-My focus lies in developing secure smart contracts and building scalable DeFi protocols that push the boundaries of what's possible in the decentralized space.
+My focus lies in developing secure smart contracts and building scalable DeFi protocols that push the boundaries of what's possible in the decentralized space. ⚡
 
 <br/>
 
