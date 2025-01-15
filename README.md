@@ -36,12 +36,14 @@ My focus lies in developing secure smart contracts and building scalable DeFi pr
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Development Tools
 ![Foundry](https://img.shields.io/badge/Foundry-%23150458.svg?style=for-the-badge&logo=foundry&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-%23F16822.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Blockchain Tools
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%234E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
