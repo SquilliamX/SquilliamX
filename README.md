@@ -25,6 +25,8 @@ I'm constantly learning, exploring new blockchain innovations, and love collabor
 
 My focus lies in developing secure smart contracts and building scalable DeFi protocols that push the boundaries of what's possible in the decentralized space. ⚡
 
+📚 Currently, I'm learning Assembly & Formal Verification!
+
 <br/>
 
 ## ⚔️ Tech Arsenal 
