@@ -7,10 +7,10 @@
 
   <div style="margin-top: 10px;">
     <a href="https://www.linkedin.com/in/williampermuy/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/>
     </a>
-    <a href="https://github.com/SquilliamX">
-      <img src="https://img.shields.io/badge/-GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <a href="https://williammichaelpermuy.com/">
+      <img src="https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge" alt="Portfolio"/>
     </a>
   </div>
 </div>
